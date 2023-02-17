@@ -1,5 +1,5 @@
-require: 'coffee-script/register'
+require: "ts-node/register"
 recursive: true
-reporter: 'spec'
-ui: 'bdd'
+reporter: "spec"
+ui: "bdd"
 timeout: 20000
